@@ -4,7 +4,7 @@ Since 2016, we've had a cargo bike of the swedish brand [cargobike](http://cargo
 link is for a newer version of the same bike). We use it all year long, for grocery shopping and lots
 of other errands. After 6 years of briny winters, the bike is in a grave need of refurbishing.
 
-<img src="./images/before.jpg" width="400">
+<img src="./images/before.jpg" width="600">
 
 In particular, the electric motor in the rear wheel broke this spring, so I started looking for a
 replacement. I'm not very happy about the hub motor, which is too weak for the heavy bike, and
@@ -26,14 +26,12 @@ reference, these are some of the searches I tried:
 so in the end I just measured the space and ordered a Tongsheng TSDZ2 in the hope that it
 would work fine.
 
-<img src="./images/space.jpg" width="400">
+<img src="./images/space.jpg" width="600">
 
 # Other improvements
 Apart from the broken motor, the casette, chain ring and chain was also due for replacement.
 To cope with winter, I'd prefer internal gearing and a sealed breaking system instead of the mechanical
-disc brakes it currently has.
-
-So I ordered a custom-built wheel with a Shimano Nexus 8 speed hub for roller brakes from
+disc brakes it currently has. So I ordered a custom-built wheel with a Shimano Nexus 8 speed hub for roller brakes from
 [Ginko veloteile](https://shop.ginkgo-veloteile.de) (highly recommended!), as well as roller brakes,
 and front and rear lights.
 
@@ -46,13 +44,13 @@ which is normally done by fastening it to the chain stay. This is not possible d
 construction, so I resorted to securing it with a metal band ("hålband", protected in an old inner
 tube). It's not perfect, but seems to work well enough.
 
-<img src="./images/chainstay_securing.jpg" width="400">
+<img src="./images/chainstay_securing.jpg" width="600">
 
 The bottom bracket is 68mm, so I had to use both gaskets to fit it. It's still possible to wiggle
 the motor a bit, so probably an additional spacer should be added "at some time".
 
-<img src="./images/motor_finished.jpg" width="400">
-<img src="./images/cockpit.jpg" width="400">
+<img src="./images/motor_finished.jpg" width="600">
+<img src="./images/cockpit.jpg" width="600">
 
 I reused the old 36v battery that came with the bike. It has a pretty low capacity by now, but
 for the short rides we typically use the bike for it's no problem.
@@ -67,7 +65,7 @@ Being able to use it as a moped is also nice. Both front and rear lights are pow
 which is very neat. The cable was too short though, so I had to extend it to reach the front. Both
 lamps are also mounted clumsily, but utility goes before beauty!
 
-<img src="./images/headlight.jpg" width="400">
+<img src="./images/headlight.jpg" width="600">
 
 Hopefully this should work better for winters than the old motor/casette/brakes, but I guess that
 will be clear after a few years!
