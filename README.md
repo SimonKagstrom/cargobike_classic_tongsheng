@@ -39,21 +39,29 @@ I've also got front wheels for roller brakes, but those are not installed yet.
 
 # Performing the conversion
 Having stripped down the bike, it was clear that space isn't an issue. I was able to mount the
-TSDZ2 upside down just as I had imagined. The only issue was with securing the motor from turning,
-which is normally done by fastening it to the chain stay. This is not possible due to the frame
-construction, so I resorted to securing it with a metal band ("hålband", protected in an old inner
-tube). It's not perfect, but seems to work well enough.
-
-<img src="./images/chainstay_securing.jpg" width="600">
-
-The bottom bracket is 68mm, so I had to use both gaskets to fit it. It's still possible to wiggle
-the motor a bit, so probably an additional spacer should be added "at some time".
+TSDZ2 upside down just as I had imagined. The bottom bracket is 68mm, so I had to use both gaskets
+to fit it. It was still possible to wiggle the motor a bit sideways, so I later added an
+additional spacer. With that, the fit is snug.
 
 <img src="./images/motor_finished.jpg" width="600">
 <img src="./images/cockpit.jpg" width="600">
 
 I reused the old 36v battery that came with the bike. It has a pretty low capacity by now, but
 for the short rides we typically use the bike for it's no problem.
+
+The only issue was with securing the motor from turning, which is normally done by fastening
+it to the chain stay. This is not possible due to the frame construction, so I resorted to
+securing it with a metal band ("hålband", protected in an old inner tube).
+
+<img src="./images/chainstay_securing.jpg" width="600">
+
+After a first variant (above) which came loose after a while, I resorted to a different solution
+which works better. Also, since the motor is mounted upside-down and potentially has the
+water outlets facing sideways or upwards, I added some extra weather protection above the motor
+from a repurposed plastic cutting board, which hopefully saves it from much of the rain and snow.
+
+<img src="./images/rotation_stop.jpg" width="600">
+<img src="./images/motor_protection.jpg" width="600">
 
 # Verdict
 Apart from the wiggle, the problems were mainly with stripping the bicycle down, with very stubborn
